@@ -1131,6 +1131,4 @@ MIT
   https://twitter.com/intent/tweet?text=Check%20out%20jest-dom%20by%20%40gnapse%20https%3A%2F%2Fgithub.com%2Ftesting-library%2Fjest-dom%20%F0%9F%91%8D
 [twitter-badge]:
   https://img.shields.io/twitter/url/https/github.com/testing-library/jest-dom.svg?style=social
-[emojis]: https://allcontributors.org/docs/en/emoji-key
-[all-contributors]: https://github.com/all-contributors/all-contributors
 [guiding-principle]: https://testing-library.com/docs/guiding-principles
